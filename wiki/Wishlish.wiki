@@ -1,0 +1,8 @@
+#summary Project features wishlist.
+#labels Phase-Requirements
+
+= Details =
+
+This is a wishlist from all of the founding developers in terms of the features that we would like to include within the first stable release. 
+
+This wishlist may be edited at any time, and we are certain that this list will always be growing, if you have experiencing developing any of the features on this wishlist, then please get in touch, as we are always interested in working with other developers who have experience in working with FreeSwitch and any of the items on this wishlist, and even if you don't, why not get in touch and see if there is a way we can work together!
