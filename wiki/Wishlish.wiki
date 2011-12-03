@@ -25,3 +25,8 @@ This wishlist may be edited at any time, and we are certain that this list will 
   * Automatic Invoice Creation with itemised billing
   * Automatic Account Suspension using advanced multi-rules
   * Ring Groups
+  * Integration with Heart Internet's API for creating new hosting accounts, domains, and other services
+  * Follow-Me style ring groups on a per extension basis, with time based ring solutions, on an individual diverted number basis
+  * Charts to show key analytics on staff control panel
+  * CNAME based dns management for the system to allow easier customer access.
+  * Reseller Control Panel for channel partners
