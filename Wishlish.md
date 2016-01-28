@@ -1,0 +1,29 @@
+# Details #
+
+This is a wishlist from all of the founding developers in terms of the features that we would like to include within the first stable release.
+
+This wishlist may be edited at any time, and we are certain that this list will always be growing, if you have experiencing developing any of the features on this wishlist, then please get in touch, as we are always interested in working with other developers who have experience in working with FreeSwitch and any of the items on this wishlist, and even if you don't, why not get in touch and see if there is a way we can work together!
+
+  * Near-instant call recording availablility
+  * Call Queues
+  * Call Divert
+  * Interactive Call Management
+  * Call Rate Cards
+  * Near-instant CDRs in CSV format
+  * IVRs
+  * Native Domain Based Multi-Tenant
+  * Dashboard style interface
+  * API based addition of extensions, inbound routes, etc...
+  * Basic Fraud Management, call length monitoring, unusual numbers, etc..
+  * Automatic Account Creation via API
+  * Number Barring on account, and extension level
+  * Integration with AQL API for Number Provisioning
+  * Integration with Payment Providers (PayPal, SagePay, WorldPay, NoChex, etc...)
+  * Automatic Invoice Creation with itemised billing
+  * Automatic Account Suspension using advanced multi-rules
+  * Ring Groups
+  * Integration with Heart Internet's API for creating new hosting accounts, domains, and other services
+  * Follow-Me style ring groups on a per extension basis, with time based ring solutions, on an individual diverted number basis
+  * Charts to show key analytics on staff control panel
+  * CNAME based dns management for the system to allow easier customer access.
+  * Reseller Control Panel for channel partners
